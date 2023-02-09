@@ -18,7 +18,7 @@ test {
 }
 
 application {
-    mainClass = "edu.cohenad.assign01.Greetings"
+    mainClass = "edu.Cohenad.assign01.Greetings"
     mainModule = "assign01mod"
 }
 
