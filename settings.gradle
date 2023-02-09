@@ -3,8 +3,9 @@ rootProject.name = 'cs_249'
 include ':coretest'
 include ':howdy'
 include ':howdyfx'
-
+include ':assign02'
 include ':assign01'
 include ':profexercises02'
 include ':profexercises03'
-
+include ':excercises03'
+include ':excercises04'
