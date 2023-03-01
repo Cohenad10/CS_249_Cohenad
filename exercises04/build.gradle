@@ -18,7 +18,7 @@ test {
 }
 
 application {
-    mainClass = "edu.Cohenad.exercises04.MathemagicLand"
+    mainClass = "edu.cohenad.exercises04.MathemagicLand"
     mainModule = "exercises04mod"
 }
 
