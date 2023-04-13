@@ -1,4 +1,4 @@
-package edu.realemj.assign05;
+package edu.cohenad.assign05;
 
 import java.util.Scanner;
 
