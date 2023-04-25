@@ -1,6 +1,6 @@
-package edu.realemj.assign07;
-//NOTE: CHANGE realemj to YOUR SITNETID!!!
+package edu.cohenad.assign07;
 
+//NOTE: CHANGE realemj to YOUR SITNETID!!!
 import edu.realemj.testing.GeneralTesting;
 import org.testng.Assert;
 import org.testng.annotations.Test;

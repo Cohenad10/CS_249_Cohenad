@@ -1,7 +1,7 @@
-package edu.realemj.assign07;
+package edu.cohenad.assign07;
 
-import edu.realemj.assign06.Creature;
-import edu.realemj.assign06.Rat;
+
+
 import org.testng.annotations.Test;
 
 public class Test_Mover {

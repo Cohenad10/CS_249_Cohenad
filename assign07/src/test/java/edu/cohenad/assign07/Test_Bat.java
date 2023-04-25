@@ -1,9 +1,9 @@
-package edu.realemj.assign07;
+package edu.cohenad.assign07;
 
-import edu.realemj.assign04.CharBoard;
-import edu.realemj.assign06.Creature;
-import edu.realemj.assign06.GameFileException;
-import edu.realemj.assign06.Rat;
+import edu.cohenad.assign04.CharBoard;
+import edu.cohenad.assign06.Creature;
+import edu.cohenad.assign06.GameFileException;
+
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
